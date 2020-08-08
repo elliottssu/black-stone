@@ -5,10 +5,10 @@
 
 #### 👽👽👽 使用three.js实现可拖拽，可旋转的黑色石碑 👽👽👽 ####
 
-*本项目属于OGWW(https://github.com/elliottssu/ogww).*
+*本项目属于[OGWW](https://github.com/elliottssu/ogww)。*
 
 “黑色石碑”是来自科幻电影“2001: 太空漫游”，它有种神秘力量启示猿猴使用工具、进化为人类。 您也可以查看网上对此的讨论
-[《2001 太空漫游》黑色方碑代表什么？ - 知乎](https://www.zhihu.com/question/19703229/answer/52923752)
+[《2001 太空漫游》黑色方碑代表什么？ - 知乎](https://www.zhihu.com/question/19703229/answer/52923752)。
 
 ![Example](./example.gif)
 
