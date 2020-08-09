@@ -18,4 +18,4 @@ Download and open `black-stone.html` in your browser.
 ## Introduction
 Based on WebGL technology to realize the classic stone monument in the science fiction movie "2001: A Space Odyssey", with deep black, slender panel, and confusing light and shadow. It can be achieved by dozens of lines of code, a draggable and rotatable black stone monument, come and try!
 
-*You can also visit [https://ogww.com](https://ogww.com) for more project details.*
+**You can also visit [https://ogww.com](https://ogww.com) for more project details.**
